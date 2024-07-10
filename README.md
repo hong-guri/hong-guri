@@ -29,8 +29,8 @@
 
 ## 📫 How to reach me
 
-[![Gmail Badge](https://img.shields.io/badge/-youremail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com)](mailto:youremail@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile/)](https://www.linkedin.com/in/your-profile/)
+[![Kakao Mail](https://img.shields.io/badge/-h0ng7040@kakao.com-FFCD00?style=flat-square&logo=kakao&logoColor=black&link=mailto:h0ng7040@kakao.com)](mailto:h0ng7040@kakao.com)
+[![Instagram](https://img.shields.io/badge/-red._.roooose-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/red._.roooose/)](https://www.instagram.com/red._.roooose/)
 
 ## 🌱 I'm currently learning ...
 
