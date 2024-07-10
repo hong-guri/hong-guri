@@ -1,36 +1,39 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20홍구리!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+### 안녕하세요! 👋 저는 풀스택 개발자 홍구리입니다.
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hong-guri&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=51&descAlign=62)
+
+## 🛠 Tech Stack
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+## 📊 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hong-guri&show_icons=true&theme=radical)
 
-<!--
-**hong-guri/hong-guri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+## 🌟 Top Languages
 
-- 🔭 I’m currently working on **Node.js, React, React Native, MySQL, MSSQL, PHP projects**
-- 🌱 I’m currently learning **GraphQL and Docker**
-- 👯 I’m looking to collaborate on **open source projects**
-- 🤔 I’m looking for help with **improving my DevOps skills**
-- 💬 Ask me about **web development and mobile app development**
-- 📫 How to reach me: **hongguri@example.com**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I love hiking and playing guitar**
-
-### 🔧 Technologies & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MSSQL](https://img.shields.io/badge/-MSSQL-black?style=flat-square&logo=microsoft-sql-server)
-
-### 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hong-guri&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hong-guri&theme=radical)
 
-### 📫 Contact Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Personal Website: [yourwebsite.com](https://yourwebsite.com)
+## 🏆 GitHub Trophies
 
+![trophy](https://github-profile-trophy.vercel.app/?username=hong-guri&theme=onedark)
+
+## 📫 How to reach me
+
+[![Gmail Badge](https://img.shields.io/badge/-youremail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com)](mailto:youremail@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile/)](https://www.linkedin.com/in/your-profile/)
+
+## 🌱 I'm currently learning ...
+
+- 클라우드 컴퓨팅
+- 데이터 과학
+- AI/ML
+
+## ⚡ Fun fact
+
+코딩할 때 커피 ☕ 없이는 살 수 없어요!
