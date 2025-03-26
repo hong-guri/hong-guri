@@ -1,4 +1,4 @@
-### 안녕하세요! 👋 저는 풀스택 개발자 홍구리입니다.
+## 안녕하세요! 👋 저는 풀스택 개발자 홍구리입니다.
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hong-guri&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=51&descAlign=62)
 
